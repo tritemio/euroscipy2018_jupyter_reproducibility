@@ -1,0 +1,2 @@
+#!/bin/sh
+jupyter nbconvert Reproducibility\ 2.0.ipynb --to slides --post serve --SlidesExporter.reveal_theme=serif  --SlidesExporter.reveal_scroll=True --SlidesExporter.reveal_transition=none --TagRemovePreprocessor.remove_input_tags='{"hide_input"}'
