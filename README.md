@@ -1,4 +1,4 @@
-Slides for the talk:
+*Slides for the talk:*
 
 ## "Reproducibility and exploratory computing with a Jupyter-based workflow"
 
